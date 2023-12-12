@@ -1,2 +1,2 @@
 # aoc
-Advent-of-code solutions of me
+Advent-of-code solutions of mine, they may not be the best solutions out there so...
