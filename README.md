@@ -1,2 +1,3 @@
-# aoc
+# Advent Of Code
+
 Advent-of-code solutions of mine, they may not be the best solutions out there so...
